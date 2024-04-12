@@ -1,0 +1,430 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/nileshsharma/.gradle/caches/transforms-3/6f39eb13a14064677b07b9ecf8a122ed/transformed/viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/nileshsharma/.gradle/caches/transforms-3/f0a85a1f0b5c866d3e79220c9c883e51/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nileshsharma/.gradle/caches/transforms-3/250d90b2dccc1b5dfec6363169f4567a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nileshsharma/.gradle/caches/transforms-3/8be0094527710ac9ee918933a35a930e/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nileshsharma/.gradle/caches/transforms-3/2ec0cf7c0eef530c4247f5a1ff911e4b/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/ec23d646caf2849c54d2a25625963cfe/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.6.0] /Users/nileshsharma/.gradle/caches/transforms-3/9b24f0a2bf87e84c88999d06651a0929/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/1845d9d1f093055c14f55bd521fa6951/transformed/glide-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/be15cd9c0bacdf5ebb59f8d98cc4349c/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nileshsharma/.gradle/caches/transforms-3/69f9d2e726ed4a5826b36d0f9d042c89/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/nileshsharma/.gradle/caches/transforms-3/d5e71d1e42499c98c716b697cdb0ee25/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/c06f49e649bd2b5826ca82c0078c9175/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/2c66b75ef761aa4514c926922ff60f42/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/de926a126babf91ea2f3b8aacbdb7ed0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/542e3aee5f0c2aed5606c46a50cacc3b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/0715a416806fc7ab7a77443bd98e1b19/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/1fd88e9f9c1fc0b5defc99bf0d5d4082/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/42fab5aa8eec710da139b78294e09d2d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/cd5c02b3522c7dd9c5c2a804f965bdde/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/6c81ee8c0f2aa961a68abebcdf0754e6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/4e97393f709520fe7846dfc5ac3939c8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/c1ca43ea10617508f8164677593a1e68/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/61d846d368013e0ee54c10fbc14968b3/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/a4e38a3836074ce4324d2754bfe3ac1c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/af52aefd761969aa0c4dba2b37b9dad9/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/eca96af1332d35d2a7e065d843813c96/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/80bf5ebf1a5ff022e91c5e601693b4d8/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/4d50d2021f743351afa16c2d26b26718/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/95ed6833acb09e4eb505fbaa17dde89d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/1558a12b9aa0d6c2ed140692ff48de39/transformed/core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/32c04a7f5ec7de31f905b41aeba509d0/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nileshsharma/.gradle/caches/transforms-3/c8728b95b38784485422ad7d7d30c60c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/3ccf83a21252953ea77552349885f43b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/8e6b580fedd9aa83782b2bb9447c732b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/51f2c1bf7ddaee83ae376d1aac845baf/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/2a747dcc6effd5883d91e5e52d3af237/transformed/gifdecoder-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/nileshsharma/.gradle/caches/transforms-3/3d7ff62b0179e61f701a8a44ebb62a78/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/ea1a00c65cde3d8fabd3ea1004a9575c/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c1d7d8cd367a4053189f58d6307b0933/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/668e558adc6182737c5338f7ebe08792/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/18cde171ccf9efb46a4b8f3ef0353a6f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/ef74d1bfda788d6c43223002f6b7a0f3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/af78c9ba5f89f6eb8a7d45b81b251ffa/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/a4f095fac40ee638759d2810f9094b3e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/47f66ed48f403a1ae5081225a54e23d9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/f1d3f74a53d55f102966540995d77001/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.lukelorusso:VerticalSeekBar:1.2.7] /Users/nileshsharma/.gradle/caches/transforms-3/b461f9c398be2a932fd401855d5c2887/transformed/VerticalSeekBar-1.2.7/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+	package
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:1-93:12
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:6:5-8:40
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:8:9-37
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:7:9-65
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:13:5-91:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/nileshsharma/.gradle/caches/transforms-3/f0a85a1f0b5c866d3e79220c9c883e51/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/nileshsharma/.gradle/caches/transforms-3/f0a85a1f0b5c866d3e79220c9c883e51/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nileshsharma/.gradle/caches/transforms-3/250d90b2dccc1b5dfec6363169f4567a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nileshsharma/.gradle/caches/transforms-3/250d90b2dccc1b5dfec6363169f4567a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/1845d9d1f093055c14f55bd521fa6951/transformed/glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/1845d9d1f093055c14f55bd521fa6951/transformed/glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/2a747dcc6effd5883d91e5e52d3af237/transformed/gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/2a747dcc6effd5883d91e5e52d3af237/transformed/gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c1d7d8cd367a4053189f58d6307b0933/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c1d7d8cd367a4053189f58d6307b0933/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:18:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:17:9-41
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:19:9-60
+	android:icon
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:16:9-49
+	android:allowBackup
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:21:9-45
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:14:9-41
+activity#com.nileshSharma.musicPlayer.DescriptionActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:24:13-48
+activity#com.nileshSharma.musicPlayer.PlayNext
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:27:13-37
+activity#com.nileshSharma.musicPlayer.AboutActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:29:9-32:56
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:31:13-49
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:32:13-53
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:30:13-42
+activity#com.nileshSharma.musicPlayer.SettingsActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:33:9-36:56
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:35:13-49
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:34:13-45
+activity#com.nileshSharma.musicPlayer.SelectionActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:37:9-40:56
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:39:13-49
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:40:13-53
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:38:13-46
+activity#com.nileshSharma.musicPlayer.PlaylistDetails
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:41:9-44:56
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:43:13-49
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:44:13-53
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:42:13-44
+activity#com.nileshSharma.musicPlayer.PlaylistActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:45:9-48:56
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:47:13-49
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:48:13-53
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:46:13-45
+activity#com.nileshSharma.musicPlayer.FavouriteActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:49:9-52:56
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:51:13-49
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:52:13-53
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:50:13-46
+activity#com.nileshSharma.musicPlayer.PlayerActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:53:9-71:20
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:59:13-49
+	android:launchMode
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:57:13-44
+	android:noHistory
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:58:13-37
+	android:exported
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:56:13-36
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:60:13-69
+	android:configChanges
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:54:13-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:scheme:content
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:61:13-70:29
+action#android.intent.action.VIEW
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:62:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:64:17-78
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:64:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:65:17-76
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:65:27-73
+data
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:67:17-69:48
+	android:scheme
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:69:21-45
+	android:mimeType
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:68:21-47
+activity#com.nileshSharma.musicPlayer.MainActivity
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:72:9-84:20
+	android:screenOrientation
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:77:13-49
+	android:launchMode
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:76:13-44
+	android:exported
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:75:13-36
+	tools:ignore
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:78:13-53
+	android:configChanges
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:74:13-43
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:73:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:82:27-74
+service#com.nileshSharma.musicPlayer.MusicService
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:86:9-49
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:86:18-46
+receiver#com.nileshSharma.musicPlayer.NotificationReceiver
+ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:88:9-90:38
+	android:enabled
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:90:13-35
+	android:name
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:89:13-49
+uses-sdk
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/nileshsharma/.gradle/caches/transforms-3/6f39eb13a14064677b07b9ecf8a122ed/transformed/viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/nileshsharma/.gradle/caches/transforms-3/6f39eb13a14064677b07b9ecf8a122ed/transformed/viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/nileshsharma/.gradle/caches/transforms-3/f0a85a1f0b5c866d3e79220c9c883e51/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/nileshsharma/.gradle/caches/transforms-3/f0a85a1f0b5c866d3e79220c9c883e51/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nileshsharma/.gradle/caches/transforms-3/250d90b2dccc1b5dfec6363169f4567a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nileshsharma/.gradle/caches/transforms-3/250d90b2dccc1b5dfec6363169f4567a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nileshsharma/.gradle/caches/transforms-3/8be0094527710ac9ee918933a35a930e/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nileshsharma/.gradle/caches/transforms-3/8be0094527710ac9ee918933a35a930e/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nileshsharma/.gradle/caches/transforms-3/2ec0cf7c0eef530c4247f5a1ff911e4b/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nileshsharma/.gradle/caches/transforms-3/2ec0cf7c0eef530c4247f5a1ff911e4b/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/ec23d646caf2849c54d2a25625963cfe/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/ec23d646caf2849c54d2a25625963cfe/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.6.0] /Users/nileshsharma/.gradle/caches/transforms-3/9b24f0a2bf87e84c88999d06651a0929/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/nileshsharma/.gradle/caches/transforms-3/9b24f0a2bf87e84c88999d06651a0929/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/1845d9d1f093055c14f55bd521fa6951/transformed/glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/1845d9d1f093055c14f55bd521fa6951/transformed/glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/be15cd9c0bacdf5ebb59f8d98cc4349c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/be15cd9c0bacdf5ebb59f8d98cc4349c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nileshsharma/.gradle/caches/transforms-3/69f9d2e726ed4a5826b36d0f9d042c89/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nileshsharma/.gradle/caches/transforms-3/69f9d2e726ed4a5826b36d0f9d042c89/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/nileshsharma/.gradle/caches/transforms-3/d5e71d1e42499c98c716b697cdb0ee25/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/nileshsharma/.gradle/caches/transforms-3/d5e71d1e42499c98c716b697cdb0ee25/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/c06f49e649bd2b5826ca82c0078c9175/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/c06f49e649bd2b5826ca82c0078c9175/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/2c66b75ef761aa4514c926922ff60f42/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/2c66b75ef761aa4514c926922ff60f42/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/de926a126babf91ea2f3b8aacbdb7ed0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/de926a126babf91ea2f3b8aacbdb7ed0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/542e3aee5f0c2aed5606c46a50cacc3b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/542e3aee5f0c2aed5606c46a50cacc3b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/0715a416806fc7ab7a77443bd98e1b19/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/0715a416806fc7ab7a77443bd98e1b19/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/1fd88e9f9c1fc0b5defc99bf0d5d4082/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/1fd88e9f9c1fc0b5defc99bf0d5d4082/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/42fab5aa8eec710da139b78294e09d2d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/42fab5aa8eec710da139b78294e09d2d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/cd5c02b3522c7dd9c5c2a804f965bdde/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/cd5c02b3522c7dd9c5c2a804f965bdde/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/6c81ee8c0f2aa961a68abebcdf0754e6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/6c81ee8c0f2aa961a68abebcdf0754e6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/4e97393f709520fe7846dfc5ac3939c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/4e97393f709520fe7846dfc5ac3939c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/c1ca43ea10617508f8164677593a1e68/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/c1ca43ea10617508f8164677593a1e68/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/61d846d368013e0ee54c10fbc14968b3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/61d846d368013e0ee54c10fbc14968b3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/a4e38a3836074ce4324d2754bfe3ac1c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/a4e38a3836074ce4324d2754bfe3ac1c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/af52aefd761969aa0c4dba2b37b9dad9/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/af52aefd761969aa0c4dba2b37b9dad9/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/eca96af1332d35d2a7e065d843813c96/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/eca96af1332d35d2a7e065d843813c96/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/80bf5ebf1a5ff022e91c5e601693b4d8/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/80bf5ebf1a5ff022e91c5e601693b4d8/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/4d50d2021f743351afa16c2d26b26718/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/4d50d2021f743351afa16c2d26b26718/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/95ed6833acb09e4eb505fbaa17dde89d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/95ed6833acb09e4eb505fbaa17dde89d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/1558a12b9aa0d6c2ed140692ff48de39/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/1558a12b9aa0d6c2ed140692ff48de39/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/32c04a7f5ec7de31f905b41aeba509d0/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/32c04a7f5ec7de31f905b41aeba509d0/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nileshsharma/.gradle/caches/transforms-3/c8728b95b38784485422ad7d7d30c60c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nileshsharma/.gradle/caches/transforms-3/c8728b95b38784485422ad7d7d30c60c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/3ccf83a21252953ea77552349885f43b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/3ccf83a21252953ea77552349885f43b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/8e6b580fedd9aa83782b2bb9447c732b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/8e6b580fedd9aa83782b2bb9447c732b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/51f2c1bf7ddaee83ae376d1aac845baf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/51f2c1bf7ddaee83ae376d1aac845baf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/2a747dcc6effd5883d91e5e52d3af237/transformed/gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/nileshsharma/.gradle/caches/transforms-3/2a747dcc6effd5883d91e5e52d3af237/transformed/gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/nileshsharma/.gradle/caches/transforms-3/3d7ff62b0179e61f701a8a44ebb62a78/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/nileshsharma/.gradle/caches/transforms-3/3d7ff62b0179e61f701a8a44ebb62a78/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/ea1a00c65cde3d8fabd3ea1004a9575c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/ea1a00c65cde3d8fabd3ea1004a9575c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c1d7d8cd367a4053189f58d6307b0933/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c1d7d8cd367a4053189f58d6307b0933/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/668e558adc6182737c5338f7ebe08792/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/668e558adc6182737c5338f7ebe08792/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/18cde171ccf9efb46a4b8f3ef0353a6f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/18cde171ccf9efb46a4b8f3ef0353a6f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/ef74d1bfda788d6c43223002f6b7a0f3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/nileshsharma/.gradle/caches/transforms-3/ef74d1bfda788d6c43223002f6b7a0f3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/af78c9ba5f89f6eb8a7d45b81b251ffa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nileshsharma/.gradle/caches/transforms-3/af78c9ba5f89f6eb8a7d45b81b251ffa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/a4f095fac40ee638759d2810f9094b3e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/a4f095fac40ee638759d2810f9094b3e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/47f66ed48f403a1ae5081225a54e23d9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/47f66ed48f403a1ae5081225a54e23d9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/f1d3f74a53d55f102966540995d77001/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nileshsharma/.gradle/caches/transforms-3/f1d3f74a53d55f102966540995d77001/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.lukelorusso:VerticalSeekBar:1.2.7] /Users/nileshsharma/.gradle/caches/transforms-3/b461f9c398be2a932fd401855d5c2887/transformed/VerticalSeekBar-1.2.7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.lukelorusso:VerticalSeekBar:1.2.7] /Users/nileshsharma/.gradle/caches/transforms-3/b461f9c398be2a932fd401855d5c2887/transformed/VerticalSeekBar-1.2.7/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nileshsharma/.gradle/caches/transforms-3/c2fe2128ff3f65075c1bfb3af1e5ed79/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#com.nileshSharma.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#com.nileshSharma.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

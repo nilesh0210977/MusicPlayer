@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".DescriptionActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-111dp">
+
+        <TextView
+            android:id="@+id/tvdescrption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:scrollbars="vertical"
+            android:text="@string/musicplayer_n_n_description_n_musicplayer_is_your_ultimate_music_companion_designed_to_transform_your_listening_experience_into_a_harmonious_journey_whether_you_re_a_casual_listener_or_a_true_audiophile_this_music_player_app_offers_a_seamless_and_intuitive_way_to_enjoy_your_favourite_tunes_key_features_n_1_sleek_and_intuitive_interface_nmusicplayer_boasts_a_sleek_and_user_friendly_interface_that_s_easy_to_navigate_ensuring_you_spend_more_time_enjoying_music_and_less_time_figuring_out_how_to_use_the_app_n_2_personalised_playlists_create_and_curate_playlists_that_match_your_mood_activity_or_genre_preference_musicplayer_also_offers_smart_playlist_recommendations_based_on_your_listening_history_n_3_high_quality_sound_immerse_yourself_in_crystal_clear_sound_quality_with_support_for_various_audio_formats_including_flac_mp3_and_more_our_advanced_audio_engine_ensures_that_every_note_is_delivered_with_precision_n_4_equaliser_and_audio_enhancement_tailor_your_listening_experience_with_a_built_in_equaliser_and_a_range_of_audio_enhancement_options_adjust_the_bass_treble_and_other_audio_settings_to_suit_your_preferences_n_5_offline_mode_download_your_favourite_songs_albums_or_playlists_for_offline_listening_perfect_for_those_long_flights_or_when_you_re_out_of_cellular_range_6_sleep_timer_set_a_timer_to_automatically_stop_playback_when_you_want_to_drift_off_to_sleep_while_listening_to_calming_tunes_7_customisable_themes_tailor_the_app_s_appearance_to_match_your_style_with_various_themes_and_colour_options_8_easy_sharing_share_your_favourite_tracks_and_playlists_with_friends_and_family_through_social_media_or_messaging_apps_why_choose_musicplayer_n_musicplayer_is_more_than_just_a_music_player_it_s_a_gateway_to_your_musical_world_with_its_intuitive_design_superior_audio_quality_and_a_suite_of_features_that_cater_to_your_unique_preferences_musicplayer_sets_the_stage_for_an_unparalleled_music_listening_experience_elevate_your_music_experience_and_let_musicplayer_be_your_guide_through_the_symphony_of_sound_download_now_and_embark_on_a_harmonious_journey_through_your_favourite_melodies"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

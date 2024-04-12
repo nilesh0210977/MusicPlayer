@@ -1,0 +1,200 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nileshSharma.musicPlayer"
+4    android:versionCode="9"
+5    android:versionName="4.0.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:6:5-8:40
+12-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:7:9-65
+13    <!-- permission for android 13 -->
+14    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+14-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:10:5-74
+14-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:10:22-72
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:11:5-77
+15-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:11:22-74
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:12:5-67
+16-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:12:22-64
+17
+18    <permission
+18-->[androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+19        android:name="com.nileshSharma.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.nileshSharma.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:14:5-93:19
+25        android:name="com.nileshSharma.musicPlayer.ApplicationClass"
+25-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:15:9-41
+26        android:allowBackup="true"
+26-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:16:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.10.1] /Users/nileshsharma/.gradle/caches/transforms-3/19f10ad0e2cd139ea7915f8891316152/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+28        android:icon="@mipmap/music_player_icon"
+28-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:17:9-49
+29        android:label="@string/app_name"
+29-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:18:9-41
+30        android:requestLegacyExternalStorage="true"
+30-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:19:9-52
+31        android:roundIcon="@mipmap/music_player_icon_round"
+31-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:20:9-60
+32        android:supportsRtl="true"
+32-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:21:9-35
+33        android:theme="@style/splash_screen" >
+33-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:22:9-45
+34        <activity
+34-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:24:9-26:40
+35            android:name="com.nileshSharma.musicPlayer.PlayNext"
+35-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:25:13-37
+36            android:exported="false" />
+36-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:26:13-37
+37        <activity
+37-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:27:9-30:56
+38            android:name="com.nileshSharma.musicPlayer.AboutActivity"
+38-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:28:13-42
+39            android:screenOrientation="portrait" />
+39-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:29:13-49
+40        <activity
+40-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:31:9-34:56
+41            android:name="com.nileshSharma.musicPlayer.SettingsActivity"
+41-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:32:13-45
+42            android:screenOrientation="portrait" />
+42-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:33:13-49
+43        <!-- <activity -->
+44        <!-- android:name=".FeedbackActivity" -->
+45        <!-- android:screenOrientation="portrait" -->
+46        <!-- tools:ignore="LockedOrientationActivity" /> -->
+47        <activity
+47-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:39:9-42:56
+48            android:name="com.nileshSharma.musicPlayer.SelectionActivity"
+48-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:40:13-46
+49            android:screenOrientation="portrait" />
+49-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:41:13-49
+50        <activity
+50-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:43:9-46:56
+51            android:name="com.nileshSharma.musicPlayer.PlaylistDetails"
+51-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:44:13-44
+52            android:screenOrientation="portrait" />
+52-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:45:13-49
+53        <activity
+53-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:47:9-50:56
+54            android:name="com.nileshSharma.musicPlayer.PlaylistActivity"
+54-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:48:13-45
+55            android:screenOrientation="portrait" />
+55-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:49:13-49
+56        <activity
+56-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:51:9-54:56
+57            android:name="com.nileshSharma.musicPlayer.FavouriteActivity"
+57-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:52:13-46
+58            android:screenOrientation="portrait" />
+58-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:53:13-49
+59        <activity
+59-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:55:9-73:20
+60            android:name="com.nileshSharma.musicPlayer.PlayerActivity"
+60-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:56:13-43
+61            android:configChanges="uiMode"
+61-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:57:13-43
+62            android:exported="true"
+62-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:58:13-36
+63            android:launchMode="singleTask"
+63-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:59:13-44
+64            android:noHistory="true"
+64-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:60:13-37
+65            android:screenOrientation="portrait" >
+65-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:61:13-49
+66            <intent-filter>
+66-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:63:13-72:29
+67                <action android:name="android.intent.action.VIEW" />
+67-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:64:17-69
+67-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:64:25-66
+68
+69                <category android:name="android.intent.category.BROWSABLE" />
+69-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:66:17-78
+69-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:66:27-75
+70                <category android:name="android.intent.category.DEFAULT" />
+70-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:67:17-76
+70-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:67:27-73
+71
+72                <data
+72-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:69:17-71:48
+73                    android:mimeType="audio/*"
+73-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:70:21-47
+74                    android:scheme="content" />
+74-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:71:21-45
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:74:9-86:20
+78            android:name="com.nileshSharma.musicPlayer.MainActivity"
+78-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:75:13-41
+79            android:configChanges="uiMode"
+79-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:76:13-43
+80            android:exported="true"
+80-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:77:13-36
+81            android:launchMode="singleTask"
+81-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:79:13-44
+82            android:screenOrientation="portrait" >
+82-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:78:13-49
+83            <intent-filter>
+83-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:81:13-85:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:82:17-69
+84-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:82:25-66
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:84:17-77
+86-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:84:27-74
+87            </intent-filter>
+88        </activity>
+89
+90        <service android:name="com.nileshSharma.musicPlayer.MusicService" />
+90-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:88:9-49
+90-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:88:18-46
+91
+92        <receiver
+92-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:90:9-92:38
+93            android:name="com.nileshSharma.musicPlayer.NotificationReceiver"
+93-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:91:13-49
+94            android:enabled="true" />
+94-->/Users/nileshsharma/Downloads/MusicPlayer-master/app/src/main/AndroidManifest.xml:92:13-35
+95
+96        <provider
+96-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+97            android:name="androidx.startup.InitializationProvider"
+97-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+98            android:authorities="com.nileshSharma.musicPlayer.androidx-startup"
+98-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+99            android:exported="false" >
+99-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+100            <meta-data
+100-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+101-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+102                android:value="androidx.startup" />
+102-->[androidx.emoji2:emoji2:1.2.0] /Users/nileshsharma/.gradle/caches/transforms-3/51dfae26a41a449549fe543bfcd1a319/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+103            <meta-data
+103-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+104                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+104-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+105                android:value="androidx.startup" />
+105-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nileshsharma/.gradle/caches/transforms-3/dea14adf65badf29d92c9c4244f25409/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+106        </provider>
+107    </application>
+108
+109</manifest>

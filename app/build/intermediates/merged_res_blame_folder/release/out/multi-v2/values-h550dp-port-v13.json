@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-30:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/nileshsharma/.gradle/caches/transforms-3/f0a85a1f0b5c866d3e79220c9c883e51/transformed/material-1.9.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

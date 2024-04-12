@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_selection.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_about.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_player.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_main.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/nav_header.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/add_playlist_dialog.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/audio_booster.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/audio_booster.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/more_features.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/more_features.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_playlist.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_settings.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/playlist_view.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/playlist_view.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/music_view.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/music_view.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/favourite_view.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/favourite_view.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/details_view.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/details_view.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_playlist_details.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_playlist_details.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_play_next.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_play_next.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/bottom_sheet_dialog.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/fragment_now_playing.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/fragment_now_playing.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeReleaseResources-31:/layout/activity_favourite.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-33:/layout/activity_favourite.xml"
+    }
+]

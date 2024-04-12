@@ -1,0 +1,7 @@
+com.nileshSharma.musicPlayer.test.app-androidTest-0 /Users/nileshsharma/Downloads/MusicPlayer-master/app/build/generated/res/resValues/androidTest/debug
+com.nileshSharma.musicPlayer.test.app-androidTest-1 /Users/nileshsharma/Downloads/MusicPlayer-master/app/build/generated/res/rs/androidTest/debug
+com.nileshSharma.musicPlayer.test.app-mergeDebugAndroidTestResources-2 /Users/nileshsharma/Downloads/MusicPlayer-master/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.nileshSharma.musicPlayer.test.app-mergeDebugAndroidTestResources-3 /Users/nileshsharma/Downloads/MusicPlayer-master/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.nileshSharma.musicPlayer.test.app-merged_res-4 /Users/nileshsharma/Downloads/MusicPlayer-master/app/build/intermediates/merged_res/debugAndroidTest
+com.nileshSharma.musicPlayer.test.app-androidTest-5 /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/androidTest/res
+com.nileshSharma.musicPlayer.test.app-androidTestDebug-6 /Users/nileshsharma/Downloads/MusicPlayer-master/app/src/androidTestDebug/res

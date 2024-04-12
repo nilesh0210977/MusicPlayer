@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_equalizer_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/equalizer_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_add_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_gradient_black.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/gradient_black.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_building_image.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/building_image.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_audio_booster.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/audio_booster.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_play_next.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_play_next.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_more_features.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/more_features.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_volume_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/volume_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_sort_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/sort_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_selection.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_favourite_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/favourite_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xxxhdpi_music_player_icon_foreground.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xxxhdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_shuffle_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/shuffle_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_circle_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/circle_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_next_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/next_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_back_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_nav_header.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xxxhdpi_music_player_icon_round.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xxxhdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_repeat_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/repeat_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_gradient_green.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/gradient_green.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_playlist.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_feedback.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-anydpi-v26_music_player_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-anydpi-v26/music_player_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_about_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/about_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xxhdpi_music_player_icon_foreground.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xxhdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_play_next_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/play_next_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_playlist_details.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_playlist_details.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_exit_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/exit_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xhdpi_music_player_icon_foreground.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xhdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_settings.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_timer_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/timer_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/menu_nav_menu.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-anydpi-v26_music_player_icon_round.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-anydpi-v26/music_player_icon_round.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_favourite.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_fragment_now_playing.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/fragment_now_playing.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-mdpi_music_player_icon_round.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-mdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-hdpi_music_player_icon_round.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-hdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_play_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/play_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_remove_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/remove_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xxxhdpi_music_player_icon.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xxxhdpi/music_player_icon.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_splash_screen.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_gradient_blue.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/gradient_blue.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_favourite_view.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/favourite_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xhdpi_music_player_icon.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xhdpi/music_player_icon.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_about.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_music_player_icon_slash_screen.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/music_player_icon_slash_screen.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_delete_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-mdpi_music_player_icon_foreground.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-mdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_search_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_gradient_pink.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/gradient_pink.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_description.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_description.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-mdpi_music_player_icon.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-mdpi/music_player_icon.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-hdpi_music_player_icon_foreground.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-hdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_details_view.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/details_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_gradient_purple.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/gradient_purple.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xhdpi_music_player_icon_round.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xhdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xxhdpi_music_player_icon_round.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xxhdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_music_view.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/music_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_share_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/share_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_music_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/music_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-hdpi_music_player_icon.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-hdpi/music_player_icon.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_custom_search_view.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/custom_search_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-xxhdpi_music_player_icon.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-xxhdpi/music_player_icon.png"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_playlist_view.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/playlist_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/menu_search_view_menu.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/menu/search_view_menu.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_previous_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/previous_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_favourite_empty_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/favourite_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/mipmap-mdpi_music_player_icon_slash_screen.png.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/mipmap-mdpi/music_player_icon_slash_screen.png"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_settings.xml.flat",
+        "source": "com.nileshSharma.musicPlayer.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_add_playlist_dialog.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_scroll_bar_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/scroll_bar_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_playlist_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/playlist_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_bottom_sheet_dialog.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_settings_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/settings_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/layout_activity_player.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_player.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_pause_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/pause_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_booster_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/booster_icon.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-merged_res-32:/drawable_feedback_icon.xml.flat",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/drawable/feedback_icon.xml"
+    }
+]

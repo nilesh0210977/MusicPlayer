@@ -1,0 +1,7 @@
+#Wed Aug 23 14:46:24 IST 2023
+base.0=/Users/nileshsharma/Downloads/MusicPlayer-master/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/nileshsharma/Downloads/MusicPlayer-master/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

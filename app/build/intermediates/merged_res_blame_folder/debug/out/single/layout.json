@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_feedback.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/music_view.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/music_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_playlist_details.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_playlist_details.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_play_next.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_play_next.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_favourite.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/playlist_view.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/playlist_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/favourite_view.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/favourite_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_selection.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_playlist.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_about.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_settings.xml",
+        "source": "com.nileshSharma.musicPlayer.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_settings.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/audio_booster.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/audio_booster.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/more_features.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/more_features.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/details_view.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/details_view.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/nav_header.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/bottom_sheet_dialog.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_description.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_description.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/fragment_now_playing.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/fragment_now_playing.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/add_playlist_dialog.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-mergeDebugResources-31:/layout/activity_player.xml",
+        "source": "/Users/nileshsharma/.gradle/daemon/7.4/com.nileshSharma.musicPlayer.app-main-34:/layout/activity_player.xml"
+    }
+]
