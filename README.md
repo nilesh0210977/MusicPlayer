@@ -3,6 +3,7 @@ Music Player App
 This is a simple and elegant music player app built using Kotlin that allows you to play your favorite songs directly from your device’s local storage. The app is designed with an intuitive user interface and a smooth music playback experience.
 
 📱 Features
+
 	•	Local Music Access: Automatically scans and lists all audio files stored on your device.
 	•	Playlists: Create and manage custom playlists to organize your songs.
 	•	Intuitive UI: Simple and clean user interface built with [Jetpack Compose / XML] (choose the one you used).
